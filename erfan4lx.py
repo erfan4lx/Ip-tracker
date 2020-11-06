@@ -122,7 +122,7 @@ def main(argv):
         sys.exit(0)
 
     print("[+] Host location found:")
-    print json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False, encoding="utf-8")
+    print (json.dumps(result, indent=4, sort_keys=True, ensure_ascii=False, encoding="utf-8")
 
 """
 """
