@@ -10,6 +10,12 @@ Show full video on YouTube : https://youtu.be/-jRLFArOszM
 
 Show demo video on Instagram : https://www.instagram.com/p/CMHhun9gUKG
 
+Contact with me to get the Password of Zip file on :
+
+ Telegram : https://t.me/erfan4lx1
+  
+ Email : erfan4lx@gmail.com
+
 🆔My YouTube Channel : http://youtube.com/erfan4lx
 
 🆔My Telegram Channel : https://t.me/Erfan4lxTeam
